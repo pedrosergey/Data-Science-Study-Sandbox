@@ -23,6 +23,6 @@ Let's embark on this exciting data science journey together!
 
 Happy coding and learning!
 
-Pedro SErge
+Pedro Sergey
 
 Feel free to modify and personalize this description to suit your preferences and add any additional information you think is relevant. Good luck with your data science studies!
